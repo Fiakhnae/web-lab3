@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\contracts\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\contracts\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\contracts\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\contracts\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\contracts\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\contracts\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|d:\\university\\k3s2\\web\\web_lab3\\web\\lab3\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C608FB42-94EE-41A6-9657-0C43F43310C3}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.Development.json",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T15:13:28.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T15:13:22.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T15:13:17.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\Contracts\\LoginRequest.cs",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\LoginRequest.cs",
+              "RelativeToolTip": "Backend\\Contracts\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:38:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\Contracts\\RegisterRequest.cs",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\RegisterRequest.cs",
+              "RelativeToolTip": "Backend\\Contracts\\RegisterRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T12:46:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\Error.cs",
+              "RelativeDocumentMoniker": "Backend\\Contracts\\Error.cs",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Contracts\\Error.cs",
+              "RelativeToolTip": "Backend\\Contracts\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T22:53:06.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:56:26.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "D:\\university\\k3s2\\web\\web_lab3\\Web\\Lab3\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:24:06.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
